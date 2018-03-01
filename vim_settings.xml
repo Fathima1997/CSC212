@@ -1,0 +1,79 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Volumes/Fathima Rukaiya /main.cpp" timestamp="1519882119910">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+      </file>
+      <file name="/Volumes/Fathima Rukaiya /csc103-lectures/02/avg.cpp" timestamp="1519312672084">
+        <mark key="'" line="21" column="1" />
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="21" column="45" />
+        <mark key="." line="21" column="45" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1519749450738">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1518327373477">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Volumes/Fathima Rukaiya /CSC212 Programming/main.cpp" timestamp="1519745382127">
+        <mark key="'" line="0" column="19" />
+        <mark key="[" line="23" column="0" />
+        <mark key="." line="0" column="19" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="21" column="1" filename="/Volumes/Fathima Rukaiya /csc103-lectures/02/avg.cpp" />
+      <jump line="5" column="0" filename="/Volumes/Fathima Rukaiya /CSC212 Programming/main.cpp" />
+      <jump line="0" column="19" filename="/Volumes/Fathima Rukaiya /CSC212 Programming/main.cpp" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAwOwp9Cg==</text>
+      </register>
+      <register name="b" type="4">
+        <text>fbbefhbefe</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>e</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgp1c2luZyBzdGQ6OmNvdXQ7CnVzaW5nIHN0ZDpjaW47</text>
+      </register>
+      <register name="-" type="4">
+        <text>e</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxnXD4=</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxnXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxnXD4=</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxnXD4=</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
