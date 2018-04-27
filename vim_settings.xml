@@ -14,22 +14,17 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/DLinkedList/DList.cpp" timestamp="1524836399797">
+      <file name="$USER_HOME$/DLinkedList/DList.cpp" timestamp="1524837872407">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="/Volumes/Fathima Rukaiya /csc103-lectures/02/avg.cpp" timestamp="1519312672084">
-        <mark key="'" line="21" column="1" />
-        <mark key="[" line="21" column="45" />
-        <mark key="]" line="21" column="45" />
-        <mark key="." line="21" column="45" />
+      <file name="$USER_HOME$/DLinkedList/DList.hh" timestamp="1524837836982">
+        <mark key="[" line="78" column="29" />
+        <mark key="]" line="78" column="29" />
+        <mark key="." line="78" column="29" />
       </file>
-      <file name="$USER_HOME$/DLinkedList/DList.hh" timestamp="1524836526172">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="87" column="29" />
-        <mark key="]" line="87" column="29" />
-        <mark key="." line="87" column="29" />
+      <file name="$USER_HOME$/DLinkedList/main.cpp" timestamp="1524838736692">
+        <mark key="'" line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/DLinkedList/main.cpp" timestamp="1524836466201" />
       <file name="$USER_HOME$/DNode/DNode.hh" timestamp="1524808699502">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="21" />
@@ -79,6 +74,8 @@
       <jump line="5" column="0" filename="/Volumes/Fathima Rukaiya /CSC212 Programming/main.cpp" />
       <jump line="0" column="19" filename="/Volumes/Fathima Rukaiya /CSC212 Programming/main.cpp" />
       <jump line="7" column="0" filename="$USER_HOME$/DLinkedList/DList.hh" />
+      <jump line="53" column="20" filename="$USER_HOME$/DLinkedList/DList.hh" />
+      <jump line="19" column="4" filename="$USER_HOME$/DLinkedList/main.cpp" />
     </jumps>
     <registers>
       <register name="0" type="4">
