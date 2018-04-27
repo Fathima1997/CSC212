@@ -14,11 +14,14 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="/Volumes/Fathima Rukaiya /csc103-lectures/02/avg.cpp" timestamp="1519312672084">
-        <mark key="'" line="21" column="1" />
-        <mark key="[" line="21" column="45" />
-        <mark key="]" line="21" column="45" />
-        <mark key="." line="21" column="45" />
+      <file name="$USER_HOME$/DLinkedList/DList.hh" timestamp="1524812000524">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="256" column="29" />
+        <mark key="]" line="256" column="29" />
+        <mark key="." line="256" column="29" />
+      </file>
+      <file name="$USER_HOME$/DLinkedList/main.cpp" timestamp="1524812373186">
+        <mark key="[" line="7" column="1" />
       </file>
       <file name="$USER_HOME$/DNode/DNode.hh" timestamp="1524808699502">
         <mark key="[" line="5" column="21" />
@@ -33,11 +36,21 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="/fragment.mm" timestamp="1524782502907">
+      <file name="/fragment.mm" timestamp="1524811914399">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DNode/DNode.cpp" timestamp="1524809182816">
         <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/DLinkedList/DNode.hh" timestamp="1524810969071">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/DLinkedList/DIterator.hh" timestamp="1524811018681">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/DNode/Iterator non const.hh" timestamp="1524810292611">
         <mark key="[" line="33" column="0" />
@@ -63,31 +76,38 @@
       <jump line="21" column="1" filename="/Volumes/Fathima Rukaiya /csc103-lectures/02/avg.cpp" />
       <jump line="5" column="0" filename="/Volumes/Fathima Rukaiya /CSC212 Programming/main.cpp" />
       <jump line="0" column="19" filename="/Volumes/Fathima Rukaiya /CSC212 Programming/main.cpp" />
+      <jump line="7" column="0" filename="$USER_HOME$/DLinkedList/DList.hh" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>m</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwp9Cg==</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBGYXRoaW1hIFJ1a2FpeWEgb24gNC8yNy8xOC4KLy8KCiNpZm5kZWYgRExJTktFRExJU1RfRExJU1RfSEgKI2RlZmluZSBETElOS0VETElTVF9ETElTVF9ISAoK</text>
       </register>
       <register name="b" type="4">
         <text>fbbefhbefe</text>
       </register>
       <register name="&quot;" type="4">
-        <text>H</text>
+        <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">I2RlZmluZSBETElOS0VETElTVF9ETk9ERV9ISAoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAwOwp9Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgp1c2luZyBzdGQ6OmNvdXQ7CnVzaW5nIHN0ZDpjaW47</text>
       </register>
       <register name="f" type="4">
         <text>gbegkhgefigekufgu</text>
       </register>
       <register name="-" type="4">
-        <text>H</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnXD4=</text>
